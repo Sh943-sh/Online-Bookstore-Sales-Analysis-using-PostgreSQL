@@ -3,7 +3,7 @@
 
  1. Project Overview and Approach -
 
-  Designed a relational database for an online bookstore with three linked tables (Books, Customers, Orders) connected through primary and foreign keys. Imported    the CSV data into PostgreSQL and wrote 20 SQL queries (11 basic, 9 advanced) to answer business questions on sales, customers, and inventory.
+   Designed a relational database for an online bookstore with three linked tables (Books, Customers, Orders) connected through primary and foreign keys. Imported    the CSV data into PostgreSQL and wrote 20 SQL queries (11 basic, 9 advanced) to answer business questions on sales, customers, and inventory.
 
 - Built the schema with `SERIAL` primary keys and `REFERENCES` foreign keys to maintain data integrity.
 - Analyzed sales by genre and author, identified the best-selling and most expensive books, and found repeat customers and top spenders.
